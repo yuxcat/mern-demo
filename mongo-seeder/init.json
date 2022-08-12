@@ -1,0 +1,7 @@
+[
+  {
+    "email": "admin@mail.com",
+    "accountType": ["admin"],
+    "password" : "$2a$05$TyzgpU4NMidEg3wEbU62buvmOFpDPgC3IMNjSsRua1l5SS3BzbeM6"
+  }
+]
